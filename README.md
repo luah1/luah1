@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @luah1
+- 👀 I’m interested in seeking a healthy life for a better generation...
+- 🌱 I’m currently a nurse and working with governmental and none governmental organizations
+...
+- 💞️ I’m looking to collaborate with organizations that seek the warfare of people in terms of providing better health care
+...
+- 📫 you can reach me through Facebook by Isaac Luuah; what apps and messenger
+ ...
+
+<!---
+luah1/luah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
